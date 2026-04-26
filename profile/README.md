@@ -4,11 +4,11 @@
 
 # Antidraw
 
-**Stop drawing. Start describing.**
+</div>
+
+**An Infinite Design Canvas For Your Coding Agents**
 
 A local-first, vibe-designing tool. Figma-like canvas — every frame is pure code you can hand off to a developer right away.
-
-</div>
 
 ---
 
