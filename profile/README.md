@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AntidrawHQ/.github/main/profile/icon.png" width="128" height="128" alt="Antidraw">
+<img src="https://raw.githubusercontent.com/AntidrawHQ/.github/main/profile/antidraw-icon.png" width="128" height="128" alt="Antidraw">
 
 # Antidraw
 
